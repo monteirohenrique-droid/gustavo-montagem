@@ -1,14 +1,14 @@
----
-layout: default
-title: Tutorial de Desmontagem e Montagem de Computador
----
+
 
 # 🔧 Tutorial de Desmontagem e Montagem de Computador
 
-> **Trabalho prático — Montagem e Manutenção de Computadores**
 
-**Alunos:** Nome 1 e Nome 2  
-**Turma:** 2º ano do Ensino Médio  
+**Aluno:** Gustavo henrique Monteiro do nascimento
+
+**Aluna:** Aryanne Vidal da Silva 
+
+**Turma:** Informática 2° Ano  
+
 **Disciplina:** Montagem e Manutenção de Computadores
 
 ---
@@ -51,16 +51,14 @@ Antes de iniciar a desmontagem:
 3. Desconectamos os cabos externos.
 4. Colocamos o gabinete em uma superfície adequada.
 5. Organizamos as ferramentas que seriam utilizadas.
+6. **Atenção:** nunca devemos trabalhar com o computador conectado à energia.
 
-> ⚠️ **Atenção:** nunca devemos trabalhar com o computador conectado à energia.
-
-### 📷 Evidência
 
 **Foto 01 — Computador antes da desmontagem**
 
-> Substitua este texto pela foto da aula.
+<img width="350" height="250" alt="image" src="https://github.com/user-attachments/assets/306bd4de-3672-4048-8208-94a54a96a58f" />
 
----
+
 
 ## 2.2 Abertura do gabinete
 
@@ -69,13 +67,15 @@ Antes de iniciar a desmontagem:
 3. Observamos a posição dos componentes e dos cabos.
 4. Organizamos os parafusos retirados.
 
-### 📷 Evidência
+
 
 **Foto 02 — Gabinete aberto**
 
-> Substitua este texto pela foto da aula.
 
----
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/78f659f6-f8ac-41a9-a56c-9560a27882f3" />
+
+
+
 
 ## 2.3 Retirada da memória RAM
 
@@ -84,13 +84,14 @@ Antes de iniciar a desmontagem:
 3. Retiramos a memória segurando pelas bordas.
 4. Colocamos o componente em um local seguro.
 
-### 📷 Evidência
 
 **Foto 03 — Retirada da memória RAM**
 
-> Substitua este texto pela foto da aula.
 
----
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/22d0e631-d799-4f7c-911f-5296379a7027" />
+
+
+
 
 ## 2.4 Retirada do HD/SSD
 
@@ -100,13 +101,13 @@ Antes de iniciar a desmontagem:
 4. Retiramos os parafusos de fixação.
 5. Removemos o dispositivo do gabinete.
 
-### 📷 Evidência
-
 **Foto 04 — Retirada do HD/SSD**
 
-> Substitua este texto pela foto da aula.
 
----
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/0e156ee3-e271-4c01-b20f-f4603902e6fc" />
+
+
+
 
 ## 2.5 Retirada da fonte de alimentação
 
@@ -115,13 +116,14 @@ Antes de iniciar a desmontagem:
 3. Seguramos a fonte com cuidado.
 4. Retiramos a fonte do gabinete.
 
-### 📷 Evidência
 
 **Foto 05 — Retirada da fonte de alimentação**
 
-> Substitua este texto pela foto da aula.
 
----
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/67759542-4a16-4cfd-8b47-6f54d2efe24d" />
+
+
+
 
 ## 2.6 Retirada da placa-mãe
 
@@ -130,13 +132,13 @@ Antes de iniciar a desmontagem:
 3. Seguramos a placa-mãe pelas bordas.
 4. Retiramos a placa-mãe cuidadosamente do gabinete.
 
-### 📷 Evidência
 
 **Foto 06 — Retirada da placa-mãe**
 
-> Substitua este texto pela foto da aula.
 
----
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/ff76caff-fdc1-4d6b-8428-d6a0961c26b9" />
+
+
 
 # 🧹 3. Limpeza dos Componentes
 
@@ -150,13 +152,6 @@ Depois da desmontagem, realizamos a limpeza dos componentes.
 4. Evitamos tocar diretamente nos contatos dos componentes.
 5. Mantivemos as peças organizadas durante a limpeza.
 
-### 📷 Evidência
-
-**Foto 07 — Limpeza dos componentes**
-
-> Substitua este texto pela foto da aula.
-
----
 
 # 🔩 4. Passo a Passo da Montagem
 
@@ -169,13 +164,14 @@ Depois da desmontagem e limpeza, iniciamos a remontagem do computador.
 3. Colocamos os parafusos.
 4. Apertamos os parafusos sem forçar excessivamente.
 
-### 📷 Evidência
 
 **Foto 08 — Placa-mãe instalada**
 
-> Substitua este texto pela foto da aula.
 
----
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/92f281f4-1b82-404f-bdb8-1fa9de85a31f" />
+
+
+
 
 ## 4.2 Instalação do processador e cooler
 
@@ -184,15 +180,18 @@ Depois da desmontagem e limpeza, iniciamos a remontagem do computador.
 3. Instalamos o cooler.
 4. Conectamos o cabo do cooler na placa-mãe.
 
-> **Observação:** caso seja necessário, a pasta térmica deve ser aplicada de forma adequada antes da instalação do cooler.
+ **Observação:** caso seja necessário, a pasta térmica deve ser aplicada de forma adequada antes da instalação do cooler.
 
-### 📷 Evidência
+
 
 **Foto 09 — Processador e cooler**
 
-> Substitua este texto pela foto da aula.
 
----
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/34d0e456-c70d-4b18-9009-f4fc65b0d568" />
+
+
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/a8d378d2-c152-4142-9525-d7bd748dc135" />
+
 
 ## 4.3 Instalação da memória RAM
 
@@ -200,13 +199,14 @@ Depois da desmontagem e limpeza, iniciamos a remontagem do computador.
 2. Pressionamos a memória cuidadosamente.
 3. Verificamos se as travas laterais fecharam.
 
-### 📷 Evidência
+
 
 **Foto 10 — Memória RAM instalada**
 
-> Substitua este texto pela foto da aula.
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/edb2d662-724f-48ff-9389-1682197d55ca" />
 
----
+
+
 
 ## 4.4 Instalação do HD/SSD
 
@@ -215,13 +215,14 @@ Depois da desmontagem e limpeza, iniciamos a remontagem do computador.
 3. Conectamos o cabo de dados.
 4. Conectamos o cabo de alimentação.
 
-### 📷 Evidência
 
 **Foto 11 — HD/SSD instalado**
 
-> Substitua este texto pela foto da aula.
 
----
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/3441c5ac-8347-49db-a481-0e91a0309004" />
+
+
+
 
 ## 4.5 Instalação da fonte e conexão dos cabos
 
@@ -235,9 +236,11 @@ Depois da desmontagem e limpeza, iniciamos a remontagem do computador.
 
 **Foto 12 — Fonte e cabos conectados**
 
-> Substitua este texto pela foto da aula.
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/8436683f-5bf2-491f-b996-0d1b6ac6ae49" />
 
----
+
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/85478884-0044-4343-819a-86076397ef26" />
+
 
 # 🖥️ 5. Teste do Computador
 
@@ -250,97 +253,5 @@ Após finalizar a montagem:
 5. Verificamos se o sistema iniciou normalmente.
 6. Conferimos se os principais componentes foram reconhecidos.
 
-### 📷 Evidência
 
-**Foto 13 — Computador funcionando após a montagem**
-
-> Substitua este texto pela foto da aula.
-
----
-
-# 📸 6. Evidências Fotográficas
-
-As fotografias abaixo devem mostrar as principais etapas realizadas durante a aula prática.
-
-| Etapa | Evidência |
-|---|---|
-| Desligamento | Foto 01 |
-| Gabinete aberto | Foto 02 |
-| Memória RAM | Foto 03 |
-| HD/SSD | Foto 04 |
-| Fonte | Foto 05 |
-| Placa-mãe | Foto 06 |
-| Limpeza | Foto 07 |
-| Montagem da placa-mãe | Foto 08 |
-| Processador e cooler | Foto 09 |
-| Memória RAM instalada | Foto 10 |
-| HD/SSD instalado | Foto 11 |
-| Fonte e cabos | Foto 12 |
-| Computador funcionando | Foto 13 |
-
----
-
-# ✅ 7. Conclusão
-
-A prática de desmontagem e montagem permitiu conhecer melhor os principais componentes de um computador e compreender como eles são conectados.
-
-Durante a atividade, aprendemos a realizar a desmontagem de forma organizada, realizar a limpeza dos componentes e montar novamente o computador.
-
-A prática também mostrou a importância de ter cuidado com os componentes e de seguir uma sequência correta para evitar danos às peças.
-
----
-
-# 👥 8. Integrantes
-
-**Aluno 1:** Nome completo  
-**Aluno 2:** Nome completo
-
----
-
-## 📁 Organização do repositório
-
-O repositório deve ficar organizado desta forma:
-
-```text
-tutorial-montagem-computador/
-├── index.md
-├── README.md
-└── imagens/
-    ├── foto01.jpg
-    ├── foto02.jpg
-    ├── foto03.jpg
-    └── ...
-```
-
-### Como colocar uma foto
-
-Depois de enviar uma foto para a pasta `imagens`, use:
-
-```markdown
-![Gabinete aberto](imagens/foto02.jpg)
-```
-
-Troque `foto02.jpg` pelo nome real da sua foto.
-
----
-
-# 🌐 Publicação no GitHub Pages
-
-No GitHub, abra:
-
-**Settings → Pages**
-
-Em **Build and deployment**, selecione:
-
-- **Source:** Deploy from a branch
-- **Branch:** `main`
-- **Folder:** `/ (root)`
-
-Depois clique em **Save**.
-
-A página será publicada em um endereço semelhante a:
-
-```text
-https://SEU-USUARIO.github.io/tutorial-montagem-computador/
-```
 
